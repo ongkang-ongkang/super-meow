@@ -1,6 +1,6 @@
 # Supermeow - Auto Claim Bot
 
-🔗 **Referral Link**: [Supermeow]()
+🔗 **Referral Link**: [Supermeow](https://t.me/supermeow_vip_bot?start=1170158500)
 
 ## 📢 Telegram Group
 
