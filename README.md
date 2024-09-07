@@ -21,7 +21,7 @@ Join our Telegram group to stay updated and get instructions on how to use this 
 ## 🚀 Run File
 
 ```
-git clone https://github.com/ongkang-ongkang/supermeow.git && cd supermeow && python -m pip install -r requirements.txt
+git clone https://github.com/ongkang-ongkang/super-meow.git && cd super-meow && python -m pip install -r requirements.txt
 ```
 
 | Run with Proxy                   | Run without Proxy   |
